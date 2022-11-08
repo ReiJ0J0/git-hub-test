@@ -38,16 +38,17 @@ namespace git_hub_test
             // 
             this.button1.Location = new System.Drawing.Point(116, 226);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(207, 60);
+            this.button1.Size = new System.Drawing.Size(207, 113);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "button21";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(412, 226);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(207, 60);
+            this.button2.Size = new System.Drawing.Size(207, 97);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
@@ -58,9 +59,9 @@ namespace git_hub_test
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(232, 101);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(284, 73);
+            this.label1.Size = new System.Drawing.Size(338, 73);
             this.label1.TabIndex = 2;
-            this.label1.Text = "first test ";
+            this.label1.Text = "gagagawa";
             // 
             // Form1
             // 
