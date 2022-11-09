@@ -46,9 +46,9 @@ namespace git_hub_test
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(412, 226);
+            this.button2.Location = new System.Drawing.Point(397, 226);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(207, 83);
+            this.button2.Size = new System.Drawing.Size(226, 83);
             this.button2.TabIndex = 1;
             this.button2.Text = "chaange 2";
             this.button2.UseVisualStyleBackColor = true;
